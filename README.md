@@ -1,4 +1,4 @@
-# www.fatezero.org
+# fate0
 
 * [blog.fatezero.org](http://blog.fatezero.org)
 
