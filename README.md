@@ -1,9 +1,11 @@
 # fate0
 
+* [www.fatezero.org](http://www.fatezero.org)
+
 * [blog.fatezero.org](http://blog.fatezero.org)
 
 * [wiki.fatezero.org](http://wiki.fatezero.org)
 
-* [weibo](http://weibo.com/fatez3r0)
+* [github](https://github.com/fate0)
 
-* [twitter](https://twitter.com/fatez3r0)
+* [weibo](http://weibo.com/fatez3r0)
