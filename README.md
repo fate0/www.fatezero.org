@@ -6,6 +6,8 @@
 
 * [维基: wiki.fatezero.org](http://wiki.fatezero.org)
 
+* [漏洞: vuls.fatezero.org](http://vuls.fatezero.org)
+
 * [开源: github](https://github.com/fate0)
 
 * [私信: weibo](http://weibo.com/fatez3r0)
