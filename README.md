@@ -8,7 +8,7 @@
 
 * [漏洞: vuls.fatezero.org](http://vuls.fatezero.org)
 
-* [开源: github.com/fate0](https://github.com/fate0)
+* [代码: github.com/fate0](https://github.com/fate0)
 
 * [邮件: fate0#fatezero.org](mailto:fate0@fatezero.org)
 
