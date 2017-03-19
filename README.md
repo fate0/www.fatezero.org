@@ -1,4 +1,4 @@
-# fate0
+# fate0 个人主页
 
 -------------
 
@@ -10,6 +10,5 @@
 
 * [开源: github.com/fate0](https://github.com/fate0)
 
-* [邮件: fate0#fatezero.org](mailto://fate0@fatezero.org)
-
+* [邮件: fate0#fatezero.org](mailto:fate0@fatezero.org)
 
