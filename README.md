@@ -2,13 +2,9 @@
 
 -------------
 
-* [博客: blog.fatezero.org](http://blog.fatezero.org)
+* [Blog: blog.fatezero.org](http://blog.fatezero.org)
 
-* [维基: wiki.fatezero.org](http://wiki.fatezero.org)
+* [GitHub: github.com/fate0](https://github.com/fate0)
 
-* [漏洞: vuls.fatezero.org](http://vuls.fatezero.org)
-
-* [代码: github.com/fate0](https://github.com/fate0)
-
-* [邮件: fate0#fatezero.org](mailto:fate0@fatezero.org)
+* [Mail: fate0#fatezero.org](mailto:fate0@fatezero.org)
 
